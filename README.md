@@ -1,4 +1,4 @@
-# 🚀 ISA Practice - DSA
+# 🚀 DSA Practice - DSA
 
 Welcome to my **Data Structures and Algorithms (DSA) Practice Repository**.
 

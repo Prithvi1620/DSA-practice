@@ -1,78 +1,77 @@
-# 🚀 DSA Practice - DSA
+<h1 align="center">👋 Hi, I'm Prithvi</h1>
+<h3 align="center">Consistently solving Data Structures & Algorithms problems, one day at a time 🚀</h3>
 
-Welcome to my **Data Structures and Algorithms (DSA) Practice Repository**.
+<p align="center">
+  <a href="https://leetcode.com/u/Xb54S9Hix7/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+  </a>
+</p>
 
-This repository contains my solutions to various DSA problems that I solve while learning and improving my problem-solving skills.
+---
 
-## 🎯 Purpose
+### 📊 LeetCode Stats
 
-The main goals of this repository are:
+<p align="center">
+  <img src="https://leetcode-stats-card.vercel.app/?username=Xb54S9Hix7&theme=dark&hide_border=false" alt="Prithvi's LeetCode Stats"/>
+</p>
 
-- Practice Data Structures and Algorithms regularly
-- Improve problem-solving and logical thinking
-- Understand different approaches to solving problems
-- Move from brute-force solutions to optimized solutions
-- Improve my C++ programming skills
-- Prepare for coding interviews and technical assessments
-- Track my DSA learning journey
+<p align="center">
+  <img src="https://leetcode-badge-modified.vercel.app/api/badge/Xb54S9Hix7" alt="LeetCode Badge"/>
+</p>
 
-## 💻 Programming Language
+| Difficulty | Solved |
+|:----------:|:------:|
+| 🟢 Easy    | 31 / 963 |
+| 🟡 Medium  | 1 / 2111 |
+| 🔴 Hard    | 0 / 973  |
+| **Total**  | **32 / 4047** |
 
-Most of the problems in this repository are solved using:
+---
 
-- **C++**
+### 🧠 My DSA Journey
 
-## 📚 Topics Covered
+I'm on a mission to master **Data Structures & Algorithms** through consistent, daily practice on LeetCode. This repository (and my profile) tracks my progress, the concepts I learn along the way, and the problems I solve.
 
-The repository will contain problems from topics such as:
+- 🌱 Currently focusing on: **Arrays, Strings & Dynamic Programming**
+- 🔥 Max streak: **4 days** | Active days: **23**
+- 💻 Primary language: **C++**
+- 🎯 Goal: Build strong problem-solving fundamentals and crack technical interviews
 
-- Arrays
-- Strings
-- Hashing
-- Sorting
-- Binary Search
-- Recursion
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Binary Search Trees
-- Heaps
-- Graphs
-- Greedy Algorithms
-- Dynamic Programming
+---
 
-## 📂 Repository Structure
+### 🛠️ Skills
 
-```text
-ISA-Practice/
-│
-├── Arrays/
-├── Strings/
-├── Hashing/
-├── Sorting/
-├── Binary-Search/
-├── Recursion/
-├── Linked-List/
-├── Stack-Queue/
-├── Trees/
-├── Graphs/
-├── Dynamic-Programming/
-│
-└── README.md
+![Dynamic Programming](https://img.shields.io/badge/Dynamic%20Programming-Advanced-critical?style=flat-square)
+![C++](https://img.shields.io/badge/C++-Primary%20Language-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0383-ransom-note](https://github.com/Prithvi1620/DSA-practice/tree/master/0383-ransom-note) |
-## String
-|  |
-| ------- |
-| [0383-ransom-note](https://github.com/Prithvi1620/DSA-practice/tree/master/0383-ransom-note) |
-## Counting
-|  |
-| ------- |
-| [0383-ransom-note](https://github.com/Prithvi1620/DSA-practice/tree/master/0383-ransom-note) |
-<!---LeetCode Topics End-->
+---
+
+### ✅ Recently Solved
+
+- Ransom Note
+- Two Sum
+- Find the Index of the First Occurrence in a String
+- Construct Uniform Parity Array I
+
+---
+
+### 📈 Progress Tracker
+
+| Metric | Value |
+|--------|-------|
+| Rank | 3,583,565 |
+| Submissions (past year) | 50 |
+| Total Active Days | 23 |
+| Max Streak | 4 days |
+
+---
+
+<p align="center">
+  <i>"Consistency beats intensity. One problem a day keeps the fear of interviews away."</i>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Xb54S9Hix7/">
+    <img src="https://img.shields.io/badge/Follow%20my%20DSA%20journey-LeetCode-orange?style=for-the-badge&logo=leetcode" alt="Follow"/>
+  </a>
+</p>

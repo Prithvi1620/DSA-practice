@@ -75,3 +75,19 @@ I'm on a mission to master **Data Structures & Algorithms** through consistent, 
     <img src="https://img.shields.io/badge/Follow%20my%20DSA%20journey-LeetCode-orange?style=for-the-badge&logo=leetcode" alt="Follow"/>
   </a>
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Prithvi1620/DSA-practice/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Prithvi1620/DSA-practice/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Prithvi1620/DSA-practice/tree/master/0258-add-digits) |
+<!---LeetCode Topics End-->

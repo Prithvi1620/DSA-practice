@@ -90,4 +90,8 @@ I'm on a mission to master **Data Structures & Algorithms** through consistent, 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Prithvi1620/DSA-practice/tree/master/0258-add-digits) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/Prithvi1620/DSA-practice/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->

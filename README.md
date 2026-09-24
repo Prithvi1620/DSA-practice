@@ -82,6 +82,7 @@ I'm on a mission to master **Data Structures & Algorithms** through consistent, 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Prithvi1620/DSA-practice/tree/master/0258-add-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prithvi1620/DSA-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
 |  |
 | ------- |
@@ -94,4 +95,8 @@ I'm on a mission to master **Data Structures & Algorithms** through consistent, 
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/Prithvi1620/DSA-practice/tree/master/0520-detect-capital) |
+## Array
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prithvi1620/DSA-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->

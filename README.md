@@ -98,5 +98,10 @@ I'm on a mission to master **Data Structures & Algorithms** through consistent, 
 ## Array
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prithvi1620/DSA-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prithvi1620/DSA-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Hash Table
+|  |
+| ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prithvi1620/DSA-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 <!---LeetCode Topics End-->

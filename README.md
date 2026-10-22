@@ -83,6 +83,7 @@ I'm on a mission to master **Data Structures & Algorithms** through consistent, 
 | ------- |
 | [0189-rotate-array](https://github.com/Prithvi1620/DSA-practice/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Prithvi1620/DSA-practice/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Prithvi1620/DSA-practice/tree/master/0268-missing-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prithvi1620/DSA-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
 |  |
@@ -100,12 +101,14 @@ I'm on a mission to master **Data Structures & Algorithms** through consistent, 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Prithvi1620/DSA-practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Prithvi1620/DSA-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prithvi1620/DSA-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prithvi1620/DSA-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prithvi1620/DSA-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Prithvi1620/DSA-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prithvi1620/DSA-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prithvi1620/DSA-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
@@ -116,9 +119,15 @@ I'm on a mission to master **Data Structures & Algorithms** through consistent, 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Prithvi1620/DSA-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prithvi1620/DSA-practice/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Prithvi1620/DSA-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prithvi1620/DSA-practice/tree/master/0349-intersection-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Prithvi1620/DSA-practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

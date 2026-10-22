@@ -100,14 +100,25 @@ I'm on a mission to master **Data Structures & Algorithms** through consistent, 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Prithvi1620/DSA-practice/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Prithvi1620/DSA-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prithvi1620/DSA-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prithvi1620/DSA-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Prithvi1620/DSA-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prithvi1620/DSA-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Prithvi1620/DSA-practice/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Prithvi1620/DSA-practice/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Prithvi1620/DSA-practice/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Prithvi1620/DSA-practice/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->

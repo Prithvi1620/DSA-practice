@@ -100,6 +100,7 @@ I'm on a mission to master **Data Structures & Algorithms** through consistent, 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Prithvi1620/DSA-practice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Prithvi1620/DSA-practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Prithvi1620/DSA-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prithvi1620/DSA-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -129,5 +130,6 @@ I'm on a mission to master **Data Structures & Algorithms** through consistent, 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Prithvi1620/DSA-practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Prithvi1620/DSA-practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

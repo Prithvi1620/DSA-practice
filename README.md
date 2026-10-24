@@ -84,6 +84,7 @@ I'm on a mission to master **Data Structures & Algorithms** through consistent, 
 | [0189-rotate-array](https://github.com/Prithvi1620/DSA-practice/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Prithvi1620/DSA-practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Prithvi1620/DSA-practice/tree/master/0268-missing-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/Prithvi1620/DSA-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prithvi1620/DSA-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
 |  |
@@ -127,6 +128,7 @@ I'm on a mission to master **Data Structures & Algorithms** through consistent, 
 | ------- |
 | [0268-missing-number](https://github.com/Prithvi1620/DSA-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prithvi1620/DSA-practice/tree/master/0349-intersection-of-two-arrays) |
+| [3536-maximum-product-of-two-digits](https://github.com/Prithvi1620/DSA-practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
